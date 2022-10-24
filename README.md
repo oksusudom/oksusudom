@@ -1,6 +1,6 @@
 ## 👋 안녕하세요. 이수철입니다.
 
-데이터 분석가 공부 중 입니다.
+데이터 분석가를 꿈꾸는 이수철입니다.
 
 <!--
 **oksusudom/oksusudom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
